@@ -1,2 +1,2 @@
-# academic
-Only for academical purposes - tutorials - practices
+# ASP NET Web Applications Talk  
+Only for presentation purpose. Will include links to tutorials and practices.
